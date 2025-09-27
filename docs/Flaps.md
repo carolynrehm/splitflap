@@ -56,7 +56,7 @@ If this sounds tedious, I'll admit that it is, but it's how I built the first fe
 
 ## 3.1 Build a flap cutting jig
 
-The notch cut-outs need to be done consistently for all 40 flaps, so we'll first create a jig for the [badge slot punch](http://www.amazon.com/gp/product/B009YDRRB4) to hold a flap in a precise position while cutting it.
+The notch cut-outs need to be done consistently for all 40 flaps, so we'll first create a jig for the [badge slot punch](https://a.co/d/9AmMwlo) to hold a flap in a precise position while cutting it.
 
 The jig can either be created by hand using a PVC card, or, if you have a 3d printer, can simply be printed ([see below](#3d-printing-a-jig))
 
